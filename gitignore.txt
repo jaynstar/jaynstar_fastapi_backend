@@ -1,0 +1,39 @@
+# -----------------------------
+# 🔐 PROTECT SECRETS & DATABASE
+# -----------------------------
+.env
+*.env
+database.db
+*.sqlite
+*.sqlite3
+
+# -----------------------------
+# 🐍 PYTHON CACHE / BUILD FILES
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# -----------------------------
+# 📦 VENV / ENV FOLDERS
+# -----------------------------
+venv/
+env/
+.venv/
+.python-version
+
+# -----------------------------
+# 🐳 DOCKER / BUILD
+# -----------------------------
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.pid
+
+# -----------------------------
+# 🚀 RAILWAY / LOCAL DEV FILES
+# -----------------------------
+railway.toml

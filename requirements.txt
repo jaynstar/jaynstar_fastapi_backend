@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-docx
+docx2pdf
+pydantic
+python-multipart
+passlib
+python-jose
+SQLAlchemy
+aiofiles
+jinja2
+openai
+argon2-cffi
+groq
+google-generativeai
+requests
